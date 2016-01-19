@@ -1,0 +1,660 @@
+fileFormatVersion: 2
+guid: a4a2e7c0004ac754d82cb29fc9222482
+timeCreated: 1444617817
+licenseType: Free
+TextureImporter:
+  fileIDToRecycleName:
+    21300000: gotenks_ssj3_sprites_by_64tre2-d4br23o_0
+    21300002: gotenks_ssj3_sprites_by_64tre2-d4br23o_1
+    21300004: gotenks_ssj3_sprites_by_64tre2-d4br23o_2
+    21300006: gotenks_ssj3_sprites_by_64tre2-d4br23o_3
+    21300008: gotenks_ssj3_sprites_by_64tre2-d4br23o_4
+    21300010: gotenks_ssj3_sprites_by_64tre2-d4br23o_5
+    21300012: gotenks_ssj3_sprites_by_64tre2-d4br23o_6
+    21300014: gotenks_ssj3_sprites_by_64tre2-d4br23o_7
+    21300016: gotenks_ssj3_sprites_by_64tre2-d4br23o_8
+    21300018: gotenks_ssj3_sprites_by_64tre2-d4br23o_9
+    21300020: gotenks_ssj3_sprites_by_64tre2-d4br23o_10
+    21300022: gotenks_ssj3_sprites_by_64tre2-d4br23o_11
+    21300024: gotenks_ssj3_sprites_by_64tre2-d4br23o_12
+    21300026: gotenks_ssj3_sprites_by_64tre2-d4br23o_13
+    21300028: gotenks_ssj3_sprites_by_64tre2-d4br23o_14
+    21300030: gotenks_ssj3_sprites_by_64tre2-d4br23o_15
+    21300032: gotenks_ssj3_sprites_by_64tre2-d4br23o_16
+    21300034: gotenks_ssj3_sprites_by_64tre2-d4br23o_17
+    21300036: gotenks_ssj3_sprites_by_64tre2-d4br23o_18
+    21300038: gotenks_ssj3_sprites_by_64tre2-d4br23o_19
+    21300040: gotenks_ssj3_sprites_by_64tre2-d4br23o_20
+    21300042: gotenks_ssj3_sprites_by_64tre2-d4br23o_21
+    21300044: gotenks_ssj3_sprites_by_64tre2-d4br23o_22
+    21300046: gotenks_ssj3_sprites_by_64tre2-d4br23o_23
+    21300048: gotenks_ssj3_sprites_by_64tre2-d4br23o_24
+    21300050: gotenks_ssj3_sprites_by_64tre2-d4br23o_25
+    21300052: gotenks_ssj3_sprites_by_64tre2-d4br23o_26
+    21300054: gotenks_ssj3_sprites_by_64tre2-d4br23o_27
+    21300056: gotenks_ssj3_sprites_by_64tre2-d4br23o_28
+    21300058: gotenks_ssj3_sprites_by_64tre2-d4br23o_29
+    21300060: gotenks_ssj3_sprites_by_64tre2-d4br23o_30
+    21300062: gotenks_ssj3_sprites_by_64tre2-d4br23o_31
+    21300064: gotenks_ssj3_sprites_by_64tre2-d4br23o_32
+    21300066: gotenks_ssj3_sprites_by_64tre2-d4br23o_33
+    21300068: gotenks_ssj3_sprites_by_64tre2-d4br23o_34
+    21300070: gotenks_ssj3_sprites_by_64tre2-d4br23o_35
+    21300072: gotenks_ssj3_sprites_by_64tre2-d4br23o_36
+    21300074: gotenks_ssj3_sprites_by_64tre2-d4br23o_37
+    21300076: gotenks_ssj3_sprites_by_64tre2-d4br23o_38
+    21300078: gotenks_ssj3_sprites_by_64tre2-d4br23o_39
+    21300080: gotenks_ssj3_sprites_by_64tre2-d4br23o_40
+    21300082: gotenks_ssj3_sprites_by_64tre2-d4br23o_41
+    21300084: gotenks_ssj3_sprites_by_64tre2-d4br23o_42
+    21300086: gotenks_ssj3_sprites_by_64tre2-d4br23o_43
+    21300088: gotenks_ssj3_sprites_by_64tre2-d4br23o_44
+    21300090: gotenks_ssj3_sprites_by_64tre2-d4br23o_45
+    21300092: gotenks_ssj3_sprites_by_64tre2-d4br23o_46
+    21300094: gotenks_ssj3_sprites_by_64tre2-d4br23o_47
+    21300096: gotenks_ssj3_sprites_by_64tre2-d4br23o_48
+    21300098: gotenks_ssj3_sprites_by_64tre2-d4br23o_49
+    21300100: gotenks_ssj3_sprites_by_64tre2-d4br23o_50
+    21300102: gotenks_ssj3_sprites_by_64tre2-d4br23o_51
+    21300104: gotenks_ssj3_sprites_by_64tre2-d4br23o_52
+    21300106: gotenks_ssj3_sprites_by_64tre2-d4br23o_53
+    21300108: gotenks_ssj3_sprites_by_64tre2-d4br23o_54
+  serializedVersion: 2
+  mipmaps:
+    mipMapMode: 0
+    enableMipMap: 1
+    linearTexture: 0
+    correctGamma: 0
+    fadeOut: 0
+    borderMipMap: 0
+    mipMapFadeDistanceStart: 1
+    mipMapFadeDistanceEnd: 3
+  bumpmap:
+    convertToNormalMap: 0
+    externalNormalMap: 0
+    heightScale: .25
+    normalMapFilter: 0
+  isReadable: 0
+  grayScaleToAlpha: 0
+  generateCubemap: 0
+  cubemapConvolution: 0
+  cubemapConvolutionSteps: 8
+  cubemapConvolutionExponent: 1.5
+  seamlessCubemap: 0
+  textureFormat: -1
+  maxTextureSize: 2048
+  textureSettings:
+    filterMode: -1
+    aniso: 16
+    mipBias: -1
+    wrapMode: 1
+  nPOTScale: 0
+  lightmap: 0
+  rGBM: 0
+  compressionQuality: 50
+  spriteMode: 2
+  spriteExtrude: 1
+  spriteMeshType: 1
+  alignment: 0
+  spritePivot: {x: .5, y: .5}
+  spriteBorder: {x: 0, y: 0, z: 0, w: 0}
+  spritePixelsToUnits: 100
+  alphaIsTransparency: 1
+  textureType: 8
+  buildTargetSettings: []
+  spriteSheet:
+    sprites:
+    - name: gotenks_ssj3_sprites_by_64tre2-d4br23o_0
+      rect:
+        serializedVersion: 2
+        x: 0
+        y: 981
+        width: 31
+        height: 52
+      alignment: 0
+      pivot: {x: .5, y: .5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: gotenks_ssj3_sprites_by_64tre2-d4br23o_1
+      rect:
+        serializedVersion: 2
+        x: 113
+        y: 981
+        width: 31
+        height: 51
+      alignment: 0
+      pivot: {x: .5, y: .5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: gotenks_ssj3_sprites_by_64tre2-d4br23o_2
+      rect:
+        serializedVersion: 2
+        x: 78
+        y: 981
+        width: 32
+        height: 47
+      alignment: 0
+      pivot: {x: .5, y: .5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: gotenks_ssj3_sprites_by_64tre2-d4br23o_3
+      rect:
+        serializedVersion: 2
+        x: 42
+        y: 980
+        width: 29
+        height: 50
+      alignment: 0
+      pivot: {x: .5, y: .5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: gotenks_ssj3_sprites_by_64tre2-d4br23o_4
+      rect:
+        serializedVersion: 2
+        x: 154
+        y: 978
+        width: 56
+        height: 50
+      alignment: 0
+      pivot: {x: .5, y: .5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: gotenks_ssj3_sprites_by_64tre2-d4br23o_5
+      rect:
+        serializedVersion: 2
+        x: 216
+        y: 978
+        width: 58
+        height: 50
+      alignment: 0
+      pivot: {x: .5, y: .5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: gotenks_ssj3_sprites_by_64tre2-d4br23o_6
+      rect:
+        serializedVersion: 2
+        x: 285
+        y: 981
+        width: 37
+        height: 51
+      alignment: 0
+      pivot: {x: .5, y: .5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: gotenks_ssj3_sprites_by_64tre2-d4br23o_7
+      rect:
+        serializedVersion: 2
+        x: 325
+        y: 986
+        width: 41
+        height: 50
+      alignment: 0
+      pivot: {x: .5, y: .5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: gotenks_ssj3_sprites_by_64tre2-d4br23o_8
+      rect:
+        serializedVersion: 2
+        x: 369
+        y: 985
+        width: 43
+        height: 49
+      alignment: 0
+      pivot: {x: .5, y: .5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: gotenks_ssj3_sprites_by_64tre2-d4br23o_9
+      rect:
+        serializedVersion: 2
+        x: 418
+        y: 986
+        width: 35
+        height: 46
+      alignment: 0
+      pivot: {x: .5, y: .5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: gotenks_ssj3_sprites_by_64tre2-d4br23o_10
+      rect:
+        serializedVersion: 2
+        x: 459
+        y: 986
+        width: 46
+        height: 39
+      alignment: 0
+      pivot: {x: .5, y: .5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: gotenks_ssj3_sprites_by_64tre2-d4br23o_11
+      rect:
+        serializedVersion: 2
+        x: 509
+        y: 984
+        width: 32
+        height: 51
+      alignment: 0
+      pivot: {x: .5, y: .5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: gotenks_ssj3_sprites_by_64tre2-d4br23o_12
+      rect:
+        serializedVersion: 2
+        x: 0
+        y: 769
+        width: 52
+        height: 48
+      alignment: 0
+      pivot: {x: .5, y: .5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: gotenks_ssj3_sprites_by_64tre2-d4br23o_13
+      rect:
+        serializedVersion: 2
+        x: 55
+        y: 764
+        width: 42
+        height: 57
+      alignment: 0
+      pivot: {x: .5, y: .5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: gotenks_ssj3_sprites_by_64tre2-d4br23o_14
+      rect:
+        serializedVersion: 2
+        x: 101
+        y: 765
+        width: 50
+        height: 58
+      alignment: 0
+      pivot: {x: .5, y: .5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: gotenks_ssj3_sprites_by_64tre2-d4br23o_15
+      rect:
+        serializedVersion: 2
+        x: 155
+        y: 765
+        width: 56
+        height: 46
+      alignment: 0
+      pivot: {x: .5, y: .5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: gotenks_ssj3_sprites_by_64tre2-d4br23o_16
+      rect:
+        serializedVersion: 2
+        x: 211
+        y: 763
+        width: 62
+        height: 53
+      alignment: 0
+      pivot: {x: .5, y: .5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: gotenks_ssj3_sprites_by_64tre2-d4br23o_17
+      rect:
+        serializedVersion: 2
+        x: 279
+        y: 758
+        width: 54
+        height: 50
+      alignment: 0
+      pivot: {x: .5, y: .5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: gotenks_ssj3_sprites_by_64tre2-d4br23o_18
+      rect:
+        serializedVersion: 2
+        x: 339
+        y: 765
+        width: 43
+        height: 51
+      alignment: 0
+      pivot: {x: .5, y: .5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: gotenks_ssj3_sprites_by_64tre2-d4br23o_19
+      rect:
+        serializedVersion: 2
+        x: 382
+        y: 763
+        width: 60
+        height: 68
+      alignment: 0
+      pivot: {x: .5, y: .5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: gotenks_ssj3_sprites_by_64tre2-d4br23o_20
+      rect:
+        serializedVersion: 2
+        x: 444
+        y: 768
+        width: 51
+        height: 65
+      alignment: 0
+      pivot: {x: .5, y: .5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: gotenks_ssj3_sprites_by_64tre2-d4br23o_21
+      rect:
+        serializedVersion: 2
+        x: 498
+        y: 775
+        width: 45
+        height: 48
+      alignment: 0
+      pivot: {x: .5, y: .5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: gotenks_ssj3_sprites_by_64tre2-d4br23o_22
+      rect:
+        serializedVersion: 2
+        x: 398
+        y: 644
+        width: 52
+        height: 56
+      alignment: 0
+      pivot: {x: .5, y: .5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: gotenks_ssj3_sprites_by_64tre2-d4br23o_23
+      rect:
+        serializedVersion: 2
+        x: 6
+        y: 647
+        width: 52
+        height: 54
+      alignment: 0
+      pivot: {x: .5, y: .5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: gotenks_ssj3_sprites_by_64tre2-d4br23o_24
+      rect:
+        serializedVersion: 2
+        x: 65
+        y: 647
+        width: 46
+        height: 53
+      alignment: 0
+      pivot: {x: .5, y: .5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: gotenks_ssj3_sprites_by_64tre2-d4br23o_25
+      rect:
+        serializedVersion: 2
+        x: 117
+        y: 647
+        width: 44
+        height: 55
+      alignment: 0
+      pivot: {x: .5, y: .5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: gotenks_ssj3_sprites_by_64tre2-d4br23o_26
+      rect:
+        serializedVersion: 2
+        x: 165
+        y: 649
+        width: 43
+        height: 47
+      alignment: 0
+      pivot: {x: .5, y: .5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: gotenks_ssj3_sprites_by_64tre2-d4br23o_27
+      rect:
+        serializedVersion: 2
+        x: 215
+        y: 650
+        width: 57
+        height: 56
+      alignment: 0
+      pivot: {x: .5, y: .5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: gotenks_ssj3_sprites_by_64tre2-d4br23o_28
+      rect:
+        serializedVersion: 2
+        x: 276
+        y: 645
+        width: 57
+        height: 51
+      alignment: 0
+      pivot: {x: .5, y: .5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: gotenks_ssj3_sprites_by_64tre2-d4br23o_29
+      rect:
+        serializedVersion: 2
+        x: 335
+        y: 642
+        width: 57
+        height: 58
+      alignment: 0
+      pivot: {x: .5, y: .5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: gotenks_ssj3_sprites_by_64tre2-d4br23o_30
+      rect:
+        serializedVersion: 2
+        x: 51
+        y: 7
+        width: 24
+        height: 32
+      alignment: 0
+      pivot: {x: .5, y: .5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: gotenks_ssj3_sprites_by_64tre2-d4br23o_31
+      rect:
+        serializedVersion: 2
+        x: 80
+        y: 9
+        width: 27
+        height: 31
+      alignment: 0
+      pivot: {x: .5, y: .5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: gotenks_ssj3_sprites_by_64tre2-d4br23o_32
+      rect:
+        serializedVersion: 2
+        x: 117
+        y: 12
+        width: 26
+        height: 35
+      alignment: 0
+      pivot: {x: .5, y: .5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: gotenks_ssj3_sprites_by_64tre2-d4br23o_33
+      rect:
+        serializedVersion: 2
+        x: 150
+        y: 12
+        width: 41
+        height: 39
+      alignment: 0
+      pivot: {x: .5, y: .5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: gotenks_ssj3_sprites_by_64tre2-d4br23o_34
+      rect:
+        serializedVersion: 2
+        x: 201
+        y: 10
+        width: 36
+        height: 43
+      alignment: 0
+      pivot: {x: .5, y: .5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: gotenks_ssj3_sprites_by_64tre2-d4br23o_35
+      rect:
+        serializedVersion: 2
+        x: 241
+        y: 8
+        width: 44
+        height: 45
+      alignment: 0
+      pivot: {x: .5, y: .5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: gotenks_ssj3_sprites_by_64tre2-d4br23o_36
+      rect:
+        serializedVersion: 2
+        x: 289
+        y: 9
+        width: 35
+        height: 44
+      alignment: 0
+      pivot: {x: .5, y: .5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: gotenks_ssj3_sprites_by_64tre2-d4br23o_37
+      rect:
+        serializedVersion: 2
+        x: 330
+        y: 9
+        width: 37
+        height: 45
+      alignment: 0
+      pivot: {x: .5, y: .5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: gotenks_ssj3_sprites_by_64tre2-d4br23o_38
+      rect:
+        serializedVersion: 2
+        x: 371
+        y: 10
+        width: 60
+        height: 30
+      alignment: 0
+      pivot: {x: .5, y: .5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: gotenks_ssj3_sprites_by_64tre2-d4br23o_39
+      rect:
+        serializedVersion: 2
+        x: 436
+        y: 10
+        width: 61
+        height: 34
+      alignment: 0
+      pivot: {x: .5, y: .5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: gotenks_ssj3_sprites_by_64tre2-d4br23o_40
+      rect:
+        serializedVersion: 2
+        x: 2
+        y: 63
+        width: 40
+        height: 52
+      alignment: 0
+      pivot: {x: .5, y: .5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: gotenks_ssj3_sprites_by_64tre2-d4br23o_41
+      rect:
+        serializedVersion: 2
+        x: 45
+        y: 62
+        width: 43
+        height: 51
+      alignment: 0
+      pivot: {x: .5, y: .5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: gotenks_ssj3_sprites_by_64tre2-d4br23o_42
+      rect:
+        serializedVersion: 2
+        x: 91
+        y: 62
+        width: 48
+        height: 51
+      alignment: 0
+      pivot: {x: .5, y: .5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: gotenks_ssj3_sprites_by_64tre2-d4br23o_43
+      rect:
+        serializedVersion: 2
+        x: 145
+        y: 64
+        width: 48
+        height: 48
+      alignment: 0
+      pivot: {x: .5, y: .5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: gotenks_ssj3_sprites_by_64tre2-d4br23o_44
+      rect:
+        serializedVersion: 2
+        x: 197
+        y: 63
+        width: 53
+        height: 50
+      alignment: 0
+      pivot: {x: .5, y: .5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: gotenks_ssj3_sprites_by_64tre2-d4br23o_45
+      rect:
+        serializedVersion: 2
+        x: 255
+        y: 64
+        width: 45
+        height: 51
+      alignment: 0
+      pivot: {x: .5, y: .5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: gotenks_ssj3_sprites_by_64tre2-d4br23o_46
+      rect:
+        serializedVersion: 2
+        x: 304
+        y: 63
+        width: 43
+        height: 50
+      alignment: 0
+      pivot: {x: .5, y: .5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: gotenks_ssj3_sprites_by_64tre2-d4br23o_47
+      rect:
+        serializedVersion: 2
+        x: 352
+        y: 63
+        width: 47
+        height: 50
+      alignment: 0
+      pivot: {x: .5, y: .5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: gotenks_ssj3_sprites_by_64tre2-d4br23o_48
+      rect:
+        serializedVersion: 2
+        x: 404
+        y: 62
+        width: 41
+        height: 52
+      alignment: 0
+      pivot: {x: .5, y: .5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: gotenks_ssj3_sprites_by_64tre2-d4br23o_49
+      rect:
+        serializedVersion: 2
+        x: 451
+        y: 63
+        width: 38
+        height: 52
+      alignment: 0
+      pivot: {x: .5, y: .5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: gotenks_ssj3_sprites_by_64tre2-d4br23o_50
+      rect:
+        serializedVersion: 2
+        x: 496
+        y: 63
+        width: 44
+        height: 52
+      alignment: 0
+      pivot: {x: .5, y: .5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: gotenks_ssj3_sprites_by_64tre2-d4br23o_51
+      rect:
+        serializedVersion: 2
+        x: 542
+        y: 65
+        width: 52
+        height: 51
+      alignment: 0
+      pivot: {x: .5, y: .5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: gotenks_ssj3_sprites_by_64tre2-d4br23o_52
+      rect:
+        serializedVersion: 2
+        x: 2
+        y: 1
+        width: 42
+        height: 52
+      alignment: 0
+      pivot: {x: .5, y: .5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: gotenks_ssj3_sprites_by_64tre2-d4br23o_53
+      rect:
+        serializedVersion: 2
+        x: 252
+        y: 835
+        width: 62
+        height: 48
+      alignment: 0
+      pivot: {x: .5, y: .5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: gotenks_ssj3_sprites_by_64tre2-d4br23o_54
+      rect:
+        serializedVersion: 2
+        x: 318
+        y: 838
+        width: 56
+        height: 45
+      alignment: 0
+      pivot: {x: .5, y: .5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+  spritePackingTag: 
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 

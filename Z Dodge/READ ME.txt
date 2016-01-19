@@ -1,0 +1,44 @@
+----SOURCES----
+
+--------In-Game Background picture----------------------------------------
+
+  http://www.fightabase.com/arenaMain.aspx?id=577
+
+--------Gotenks/player sprite sheet-----------------------------------------------
+ http://64tre2.deviantart.com/art/gotenks-ssj3-sprites-261602916
+
+--------Main Menu picuters--------------------------------------------------------------------
+
+Blue Background: http://gsanimator.com/wp-content/uploads/2013/05/layer_sli_bg1.jpg
+
+--------4-star Dragon Ball Sprite--------------------------------------------------------------------
+https://41.media.tumblr.com/tumblr_lfik8lVeoP1qcq223o1_250.png
+
+--------Main Game Music----------------
+paul atrocity -we going
+
+--------Main Menu Music----------------
+
+https://www.youtube.com/watch?v=FFuYXKU6Y9I
+
+----Instructions menu music----------
+http://ericskiff.com/music/
+
+--------Instructions Menu Gotenks Ghost Picture--------------------------------
+http://vignette3.wikia.nocookie.net/dragonball/images/1/18/Ghost_Gotenks.png/revision/latest?cb=20140918092725
+
+-----------Timer text font---------
+
+from southype
+Please visit his site, http://www.southype.com
+support him via PayPal: Paypal: southype@gmail.com
+
+------ToolTips font------
+http://www.dafont.com/pixelmix.font
+by user: Andrew Tyler
+
+
+-----Health Capsule Pick-up sound effect---
+
+Copyright of user jalasram, Jesus Lastra
+http://opengameart.org/content/8-bit-pickup-1
