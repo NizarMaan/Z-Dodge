@@ -12,6 +12,7 @@ public class MoveMenuBalls : MonoBehaviour {
 	float newY;
 	float radius;
 	public GameObject gameTitle;
+
 	// Use this for initialization
 	void Start () {
 		//angle in the circle to start rotation at, relative to circle center
@@ -19,7 +20,7 @@ public class MoveMenuBalls : MonoBehaviour {
 		//speed of the object
 		speed = (2 * Mathf.PI) / 5; //2*PI in degress is 360, so you get 5 seconds to complete a circle
 		//radius of the movement
-		radius=130f;
+		radius= 1.00f;
 	}
 	
 	// Update is called once per frame

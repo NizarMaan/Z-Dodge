@@ -43,9 +43,11 @@ public class CreateCapsules : MonoBehaviour {
 		}
 	}
 
+	//YET TO BE IMPLEMENTED
 	void GenerateSpeedCapsule(){
 		
 	}
+	//YET TO BE IMPLEMENTED
 	void GenerateExplosiveCapsule(){
 		
 	}

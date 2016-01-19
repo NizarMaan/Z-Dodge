@@ -48,12 +48,14 @@
   <ItemGroup>
      <Compile Include="Assets\Scripts\BallBehaviour.cs" />
      <Compile Include="Assets\Scripts\ButtonShader.cs" />
+     <Compile Include="Assets\Scripts\CapsuleSlider.cs" />
      <Compile Include="Assets\Scripts\CapsulesTimer.cs" />
      <Compile Include="Assets\Scripts\CreateBall.cs" />
      <Compile Include="Assets\Scripts\CreateCapsules.cs" />
      <Compile Include="Assets\Scripts\GhostCreationHandler.cs" />
      <Compile Include="Assets\Scripts\HealthUpSprites.cs" />
      <Compile Include="Assets\Scripts\LifeIcons.cs" />
+     <Compile Include="Assets\Scripts\MenuSelection.cs" />
      <Compile Include="Assets\Scripts\MoveBackground.cs" />
      <Compile Include="Assets\Scripts\MoveGhosts.cs" />
      <Compile Include="Assets\Scripts\MoveMenuBalls.cs" />
